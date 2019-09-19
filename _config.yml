@@ -19,8 +19,8 @@ theme: texture
 
 permalink: /posts/:title/
 texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
+  title: Johan S. Obando-Ceron 
+  tagline: Developer. Researcher
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
@@ -30,7 +30,7 @@ texture:
   social_links:
     twitter: thelehhman
     github:  thelehhman
-    linkedIn: in/thelehhman
+    linkedIn: https://www.linkedin.com/in/johan-obando/
     rss: rss
  
 
