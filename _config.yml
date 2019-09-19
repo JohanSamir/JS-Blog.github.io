@@ -1,6 +1,6 @@
 title: Texture Theme
 author: GitHub User
-email: your-email@domain.com
+email: jobando0730@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -20,17 +20,17 @@ theme: texture
 permalink: /posts/:title/
 texture:
   title: Johan S. Obando-Ceron
-  tagline: Developer. Designer
+  tagline: Developer. Researcher
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
-  showPicker: true
+  showPicker: false
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
+    twitter: https://twitter.com/JS_Obando
+    github:  https://github.com/JohanSamir
+    linkedIn: https://www.linkedin.com/notifications/
     rss: rss
  
 
